@@ -37,8 +37,11 @@ Asset Management services of UBS plays a role to help strategically manage and g
 Investment Banking Provide strategic advisory services for mergers and acquisitions (M&A), facilitate capital raising activities through public offerings (IPOs). It provides international perspectives and access to a broad range of capital markets. Offer insights and strategies based on a deep understanding of market dynamics in various industries. Assist clients in optimizing their capital structure and financing through capital raising and debt to enhance shareholder value. With the help of the investment banking division UBS can enhance its customer base and services by combining the asset management clients and giving all round support to the clients on both sides.
 ### Corporate Banking
 Business checking and savings accounts with upgradable features to meet the unique needs of businesses. Comprehensive commercial lending solutions, including term loans and lines of credit. Cutting-edge digital banking platforms for corporate clients, facilitating efficient financial management and reporting. 
-Personal Banking
+
+### Personal Banking
 Everyday banking services, including savings and checking accounts, debit cards, and online/mobile banking, loans and financing etc. Exclusive banking services for high-net-worth individuals, including personalized financial solutions and access to a dedicated team of wealth management professionals. 
+
+
 
 ## Entities:
 ### Client
