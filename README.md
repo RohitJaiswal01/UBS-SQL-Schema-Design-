@@ -14,32 +14,32 @@ UBS provides wealth management, asset management, and investment banking service
 
 # Top Facilities and Services of UBS:
 
-# Wealth Management 
+### Wealth Management 
 UBS has been helping wealthy individuals and families pursue what matters most to them has been the purpose for over 160 years. Wealth management is a comprehensive financial advisory service that involves the coordination of various financial activities to help individuals and families manage, grow, and preserve their wealth. The wealth management services include but not limited to services such as:
 Risk Management
 Risk management helps to identify, assess, and mitigate potential risks associated with your financial portfolio. It consists of giving a thorough analysis of the financial situation to identify various types of risks. Evaluate risk tolerance, financial goals, and time horizon to tailor a risk management strategy that aligns with the client's unique circumstances.
 
 
-# Insurance Planning
+### Insurance Planning
 Insurance planning of the HNIs and families is the subdivision of the wealth management that evaluates and provides recommendations on the appropriate mix of insurance products to address identified risks, insurance coverage including life, health, property, and liability insurance. Integrate insurance products as a crucial component to wealth management strategy to safeguard client assets. 
 
 
-# Tax Planning
+### Tax Planning
 Tax planning with respect to wealth management refers to optimizing the financial strategy by minimizing tax liabilities and maximizing after-tax returns for the clients, including comprehensive analysis of the financial situation to identify potential tax implications and areas for tax optimization and the placement of assets across various account types (taxable, tax-deferred, and tax-free) to enhance tax efficiency etc.
 
 
-# Asset Management 
+### Asset Management 
 Asset Management services of UBS plays a role to help strategically manage and grow the investments to achieve client’s financial goals. Being a part of the wealth management services the access to investment capabilities and investment styles of asset management division has extended its client base to individuals, institutes and corporations. Utilizing a range of asset classes, including equities, fixed income, alternatives, and cash, to build a well-balanced and diversified investment portfolio. Leveraging UBS's research capabilities and expertise to make informed investment decisions. Offering sustainable and responsible investment options such as environmental, social, and governance (ESG) factors into the investment process when constructing portfolios.
 
 
-# Investment Banking
+### Investment Banking
 Investment Banking Provide strategic advisory services for mergers and acquisitions (M&A), facilitate capital raising activities through public offerings (IPOs). It provides international perspectives and access to a broad range of capital markets. Offer insights and strategies based on a deep understanding of market dynamics in various industries. Assist clients in optimizing their capital structure and financing through capital raising and debt to enhance shareholder value. With the help of the investment banking division UBS can enhance its customer base and services by combining the asset management clients and giving all round support to the clients on both sides.
-# Corporate Banking
+### Corporate Banking
 Business checking and savings accounts with upgradable features to meet the unique needs of businesses. Comprehensive commercial lending solutions, including term loans and lines of credit. Cutting-edge digital banking platforms for corporate clients, facilitating efficient financial management and reporting. 
 Personal Banking
 Everyday banking services, including savings and checking accounts, debit cards, and online/mobile banking, loans and financing etc. Exclusive banking services for high-net-worth individuals, including personalized financial solutions and access to a dedicated team of wealth management professionals. 
 
-# # Entities:
+## Entities:
 ### Client
 ClientID (Primary Key): Unique identifier for each client.
 FirstName: First name of the client.
