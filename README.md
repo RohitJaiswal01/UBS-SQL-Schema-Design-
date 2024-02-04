@@ -176,6 +176,7 @@ Investment references InvestmentBanking using IBID as a foreign key.
 # ER Diagram: 
 Let’s construct an ER diagram for schema design of UBS with our approach, this would be an estimated schema model for UBS that highlights relationships and attributes of the entities. This would be showing the major features or facilities being provided by UBS to its clients. The core business divisions and sub divisions have been shown in the diagram along with the relationships between them determining the data flows and giving an understanding of the data architecture framework of the UBS.
 
+## UBS 
 ![image](https://github.com/RohitJaiswal01/UBS-SQL-Schema-Design-/assets/152694882/2e94a1c9-1598-475b-9ae0-b67bf835e740)
 
 # Conclusion:
