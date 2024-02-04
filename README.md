@@ -29,7 +29,7 @@ Insurance planning of the HNIs and families is the subdivision of the wealth man
 Tax planning with respect to wealth management refers to optimizing the financial strategy by minimizing tax liabilities and maximizing after-tax returns for the clients, including comprehensive analysis of the financial situation to identify potential tax implications and areas for tax optimization and the placement of assets across various account types (taxable, tax-deferred, and tax-free) to enhance tax efficiency etc.
 
 
-#### Asset Management 
+### Asset Management 
 Asset Management services of UBS plays a role to help strategically manage and grow the investments to achieve client’s financial goals. Being a part of the wealth management services the access to investment capabilities and investment styles of asset management division has extended its client base to individuals, institutes and corporations. Utilizing a range of asset classes, including equities, fixed income, alternatives, and cash, to build a well-balanced and diversified investment portfolio. Leveraging UBS's research capabilities and expertise to make informed investment decisions. Offering sustainable and responsible investment options such as environmental, social, and governance (ESG) factors into the investment process when constructing portfolios.
 
 
