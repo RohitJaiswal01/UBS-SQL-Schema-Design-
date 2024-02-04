@@ -16,19 +16,20 @@ UBS provides wealth management, asset management, and investment banking service
 
 ### Wealth Management 
 UBS has been helping wealthy individuals and families pursue what matters most to them has been the purpose for over 160 years. Wealth management is a comprehensive financial advisory service that involves the coordination of various financial activities to help individuals and families manage, grow, and preserve their wealth. The wealth management services include but not limited to services such as:
-Risk Management
+
+#### Risk Management
 Risk management helps to identify, assess, and mitigate potential risks associated with your financial portfolio. It consists of giving a thorough analysis of the financial situation to identify various types of risks. Evaluate risk tolerance, financial goals, and time horizon to tailor a risk management strategy that aligns with the client's unique circumstances.
 
 
-### Insurance Planning
+#### Insurance Planning
 Insurance planning of the HNIs and families is the subdivision of the wealth management that evaluates and provides recommendations on the appropriate mix of insurance products to address identified risks, insurance coverage including life, health, property, and liability insurance. Integrate insurance products as a crucial component to wealth management strategy to safeguard client assets. 
 
 
-### Tax Planning
+#### Tax Planning
 Tax planning with respect to wealth management refers to optimizing the financial strategy by minimizing tax liabilities and maximizing after-tax returns for the clients, including comprehensive analysis of the financial situation to identify potential tax implications and areas for tax optimization and the placement of assets across various account types (taxable, tax-deferred, and tax-free) to enhance tax efficiency etc.
 
 
-### Asset Management 
+#### Asset Management 
 Asset Management services of UBS plays a role to help strategically manage and grow the investments to achieve client’s financial goals. Being a part of the wealth management services the access to investment capabilities and investment styles of asset management division has extended its client base to individuals, institutes and corporations. Utilizing a range of asset classes, including equities, fixed income, alternatives, and cash, to build a well-balanced and diversified investment portfolio. Leveraging UBS's research capabilities and expertise to make informed investment decisions. Offering sustainable and responsible investment options such as environmental, social, and governance (ESG) factors into the investment process when constructing portfolios.
 
 
@@ -71,19 +72,19 @@ FinancialGoals: Goals related to financial planning.
 InvestmentHorizon: Duration over which the client plans to invest.
 AdvisoryTeam: Team providing advisory services.
 
-### Risk Management
+#### Risk Management
 RiskID (Primary Key): Unique identifier for each risk management entry.
 WMID (Foreign Key): References the WealthManagement table, linking to the corresponding wealth management account.
 RiskType: Type of risk being managed.
 RiskLevel: Level or severity of the identified risk.
 
-### Insurance Planning
+#### Insurance Planning
 InsuranceID (Primary Key): Unique identifier for each insurance planning entry.
 WMID (Foreign Key): References the WealthManagement table, linking to the corresponding wealth management account.
 InsuranceType: Type of insurance being planned.
 CoverageAmount: Amount of coverage planned for the insurance.
 
-### Tax Planning
+#### Tax Planning
 TaxID (Primary Key): Unique identifier for each tax planning entry.
 WMID (Foreign Key): References the WealthManagement table, linking to the corresponding wealth management account.
 TaxStrategy: Strategy for tax planning.
