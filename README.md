@@ -119,30 +119,37 @@ Date: Date of the investment.
 ## Relationships:
 ### Client - Personal Banking (1: Many):
 One client can have multiple personal banking accounts like saving, current or fixed.
+
 PersonalBanking references Client using ClientID as a foreign key.
 
 ### Client - Corporate Banking (1: Many):
 One client can have multiple corporate banking accounts.
+
 CorporateBanking references Client using ClientID as a foreign key.
 
 ### Client - Wealth Management (1:1):
 One client can have one wealth management account.
+
 WealthManagement references Client using ClientID as a foreign key.
 
 ### Wealth Management - Risk Management (1: Many):
 One wealth management account can have multiple risk management entries.
+
 RiskManagement references WealthManagement using WMID as a foreign key.
 
 ### Wealth Management - Insurance Planning (1: Many):
 One wealth management account can have multiple insurance planning entries.
+
 InsurancePlanning references WealthManagement using WMID as a foreign key.
 
 ### Wealth Management - Tax Planning (1: Many):
 One wealth management account can have multiple tax planning entries.
+
 TaxPlanning references WealthManagement using WMID as a foreign key.
 
 ### Client - Asset Management (1: Many):
 One client can have multiple asset management accounts.
+
 AssetManagement references Client using ClientID as a foreign key.
 
 ### Client - Investment Banking (1: 1):
@@ -151,14 +158,17 @@ InvestmentBanking references Client using ClientID as a foreign key.
 
 ### Wealth Management - Investment (1: Many):
 One wealth management account can have multiple investments.
+
 Investment references WealthManagement using WMID as a foreign key.
 
 ### Asset Management - Investment (1: Many):
 One asset management account can have multiple investments.
+
 Investment references AssetManagement using AMID as a foreign key.
 
 ### Investment Banking - Investment (1: Many):
 One investment banking account can have multiple investments.
+
 Investment references InvestmentBanking using IBID as a foreign key.
 
 
