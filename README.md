@@ -2,6 +2,9 @@
 Product Dissection and analysis of core business services and features, with the understanding of features crafted a schema design that reflects the platform's data structure. Created an illustrative Entity-Relationship (ER) diagram, that  vividly depict the entities, attributes, and relationships present within in schema design. The ER diagram will serve as a visual representation of the insights.
 Showcasing of understanding of how the schema design impacts the platform's functionality and user experience with a presentation video.
 
+# Presentation Video
+https://drive.google.com/file/d/19jkvTowVHDvFKBGxRhuZZ8pxM7aQxL4u/view?usp=sharing
+
  ![image](https://github.com/RohitJaiswal01/UBS-SQL-Schema-Design-/assets/152694882/c72c24d7-91f3-4905-b747-84398d35a12b)
 
 # Product Dissection of UBS
