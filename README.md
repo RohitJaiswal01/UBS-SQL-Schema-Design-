@@ -5,6 +5,10 @@ Showcasing of understanding of how the schema design impacts the platform's func
 # Presentation Video
 https://drive.google.com/file/d/19jkvTowVHDvFKBGxRhuZZ8pxM7aQxL4u/view?usp=sharing
 
+
+
+
+
  ![image](https://github.com/RohitJaiswal01/UBS-SQL-Schema-Design-/assets/152694882/c72c24d7-91f3-4905-b747-84398d35a12b)
 
 # Product Dissection of UBS
